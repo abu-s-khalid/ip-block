@@ -1,0 +1,64 @@
+# Steam
+steampowered.com
+www.steampowered.com
+www.steamcommunity.com
+steamcommunity.com
+www.steamgames.com
+steamgames.com
+www.steamusercontent.com
+steamusercontent.com
+www.steamcontent.com
+steamcontent.com
+
+# World of Warcraft / Battle.net
+www.battle.net
+battle.net
+www.blizzard.com
+blizzard.com
+www.blizzardtech.com
+blizzardtech.com
+
+# GTA Online / Rockstar Social Club
+www.rockstargames.com
+rockstargames.com
+www.rsg.sc
+rsg.sc
+
+# Other Major MMOs (Epic Games, Riot, EA, Xbox, PlayStation)
+www.epicgames.com
+epicgames.com
+www.unrealengine.com
+unrealengine.com
+www.riotgames.com
+riotgames.com
+wwww.leagueoflegends.com
+leagueoflegends.com
+www.pvp.net
+pvp.net
+www.origin.com
+origin.com
+www.ea.com
+ea.com
+www.playstation.com
+playstation.com
+www.xboxlive.com
+xboxlive.com
+www.square-enix.com
+square-enix.com
+www.finalfantasyxiv.com
+finalfantasyxiv.com
+
+# web based games
+www.crazygames.com
+crazygames.com
+www.playgama.com
+playgama.com
+
+roblox.com
+www.roblox.com
+minecraft.net
+epicgames.com
+www.epicgames.com
+steampowered.com
+store.steampowered.com
+store.epicgames.com
